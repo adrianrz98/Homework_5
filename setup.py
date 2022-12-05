@@ -7,6 +7,6 @@ setup(
     author='DSSS_Jose_Adrian',
     author_email='adrianrz9816@gmail.com',
     packages=find_packages(),
-    install_requires=['turtle','numpy','random'],
+    install_requires=['turtle','numpy'],
 
 )
